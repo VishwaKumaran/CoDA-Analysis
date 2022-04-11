@@ -1,7 +1,7 @@
 ---
 title: "Analyse Descriptive"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Analyse descriptive des données de COBRA-ENV
 site: distill::distill_website
 ---
 

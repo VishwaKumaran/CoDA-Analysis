@@ -2,19 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Tobi Burns",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-04-11T10:18:15+02:00"
+      "contents": "\n\n          \n          \n          Analyse Descriptive\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Tobi Burns\n          \n          \n            \n              I am a classically trained data scientist living in the\n              San Francisco Bay Area. Currently I work on the Oculus\n              team at Facebook. I love talking about baseball, true\n              crime podcasts, and causal inference.\n            \n            \n              I am a classically trained data scientist living in the\n              San Francisco Bay Area. Currently I work on the Oculus\n              team at Facebook. I love talking about baseball, true\n              crime podcasts, and causal inference.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-04-11T10:27:11+02:00"
     },
     {
       "path": "index.html",
       "title": "Analyse Descriptive",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Analyse descriptive des données de COBRA-ENV\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-04-11T10:18:16+02:00"
+      "last_modified": "2022-04-11T10:27:12+02:00"
     }
   ],
   "collections": []
